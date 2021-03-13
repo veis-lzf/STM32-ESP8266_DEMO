@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : Variant [[No Variations]] of Project [DHT11-BaseBoard.PrjPcb]
+   Generated File[Assembly Testpoint Report for dht11-pcb.ipc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 15:06:24 On 2019/10/27

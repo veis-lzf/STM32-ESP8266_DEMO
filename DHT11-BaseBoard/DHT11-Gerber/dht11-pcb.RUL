@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\12566\Desktop\临时文件夹\2019电子课程设计\简化版\DHT11-BaseBoard\dht11-pcb.PcbDoc
+RuleKind=Width|RuleName=Width_POWER|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.50
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
